@@ -12,7 +12,7 @@ I build AI-powered side projects to stay sharp on the tools I recommend to engin
 Multi-agent web app that generates a full competitive analysis report from a single competitor name. Parallel Claude agents handle scraping, sentiment, positioning, and report writing.
 
 ### [Aimprint](https://github.com/Danforthhh/Aimprint) — Claude Code Token Tracker
-Tracks Claude Code token consumption across machines, projects, and work types. A local sync agent reads Claude's session logs and pushes metadata to a unified dashboard — showing spend by category (code, planning, refactoring…), period-over-period trends, and sub-agent vs. direct usage. Session content never leaves your machine.
+Tracks Claude Code token consumption across machines, projects, and work types. A local sync agent reads Claude's session logs and pushes metadata to a unified dashboard — showing spend by category (code, planning, refactoring), period-over-period trends, and sub-agent vs. direct usage. Session content never leaves your machine.
 
 ### [Wandr](https://github.com/Danforthhh/Wandr) — AI Trip Planner
 AI-native travel app. Describe your destination and get a full itinerary, packing list, and a chat assistant that answers questions about your trip — including vision input from booking PDFs.
@@ -28,8 +28,8 @@ Automated pipeline that parses daily listing alerts (Centris, DuProprio, Realtor
 ---
 
 ## About me
-- 📍 Montreal, QC
-- 🎓 MBA candidate at HEC Montréal
-- 💼 Open to senior PM and Head of Product opportunities
-- 🔗 [linkedin.com/in/vincent-bories](https://www.linkedin.com/in/vincent-bories/)
+- Montreal, QC
+- MBA candidate at HEC Montreal
+- Open to senior PM and Head of Product opportunities
+- https://www.linkedin.com/in/vincent-bories/
 
