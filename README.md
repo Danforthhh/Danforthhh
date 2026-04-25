@@ -20,7 +20,7 @@ Automated pipeline that parses daily listing alerts (Centris, DuProprio, Realtor
 ---
 
 ## Stack I work with
-`TypeScript` `React` `Firebase` `n8n` `Cloudflare Workers` `Claude API` `Docker`
+`TypeScript` `React` `Firebase` `n8n` `Cloudflare Workers` `Claude API` `Docker` `Obsidian` `Graphify`
 
 ---
 
